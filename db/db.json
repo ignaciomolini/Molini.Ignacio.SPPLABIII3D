@@ -1,0 +1,44 @@
+{
+  "anuncios": [
+    {
+      "id": 1,
+      "titulo": "Honda Civic",
+      "transaccion": "Venta",
+      "descripcion": "Excelente estado",
+      "precio": "500000",
+      "puertas": "4",
+      "kms": "20000",
+      "potencia": "120"
+    },
+    {
+      "id": 2,
+      "titulo": "Ford Fiesta",
+      "transaccion": "Alquiler",
+      "descripcion": "Automatico",
+      "precio": "10000",
+      "puertas": "5",
+      "kms": "120000",
+      "potencia": "90"
+    },
+    {
+      "id": 3,
+      "titulo": "Chevrolet Onix",
+      "transaccion": "Venta",
+      "descripcion": "Con pocos kilometros",
+      "precio": "600000",
+      "puertas": "5",
+      "kms": "4000",
+      "potencia": "100"
+    },
+    {
+      "id": 4,
+      "titulo": "Renault Clio",
+      "transaccion": "Venta",
+      "descripcion": "Muy bueno",
+      "precio": "450000",
+      "puertas": "4",
+      "kms": "120000",
+      "potencia": "105"
+    }
+  ]
+}
